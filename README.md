@@ -11,9 +11,9 @@ Additional description about the project and its features.
 You only need a browser
 **Authors**
 :silhouette:  **Shahnawaz Ali**
-- GitHub: [@githubhandle]("https://github.com/shahnawaza75")
-- Twitter: [@twitterhandle]("https://twitter.com/RjShahnawaza75")
-- LinkedIn: [LinkedIn]("https://www.linkedin.com/in/shahnawaz-ali-a24b72204")
+- GitHub: [@githubhandle](https://github.com/shahnawaza75)
+- Twitter: [@twitterhandle](https://twitter.com/RjShahnawaza75)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/shahnawaz-ali-a24b72204)
  **:handshake: Contributing**
 Contributions, issues, and feature requests are welcome!
 Give a :star:️ if you like this project!
